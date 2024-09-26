@@ -1,0 +1,10 @@
+{
+  "backToCourseList": {
+    "message": "Return to course list",
+    "description": "2.0 course.js"
+  },
+  "backToManageCenter": {
+    "message": "Back to Admin Center",
+    "description": "2.0 course.js"
+  }
+}
