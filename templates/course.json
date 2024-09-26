@@ -1,0 +1,98 @@
+{
+  "backToCourseList": {
+    "message": "返回课程列表",
+    "description": "2.0 course.js"
+  },
+  "backToManageCenter": {
+    "message": "返回管理中心",
+    "description": "2.0 course.js"
+  },
+  "courseFinishedTips1": {
+    "message": "课程已结束，您无法继续编辑课程内容和课程信息",
+    "description": "2.0 course.js"
+  },
+  "courseFinishedTips2": {
+    "message": "课程已结束，您无法继续参加新的课程活动",
+    "description": "2.0 course.js"
+  },
+  "courseContent": {
+    "message": "课程内容",
+    "description": "2.0 course.js"
+  },
+  "courseAnnouncement": {
+    "message": "课程公告",
+    "description": "2.0 course.js"
+  },
+  "courseAnalysis": {
+    "message": "课程分析",
+    "description": "2.0 course.js"
+  },
+  "courseResourse": {
+    "message": "课程资源",
+    "description": "2.0 course.js"
+  },
+  "courseAssessment": {
+    "message": "课程考核",
+    "description": "2.0 course.js"
+  },
+  "courseMember": {
+    "message": "课程成员",
+    "description": "2.0 course.js"
+  },
+  "courseSetting": {
+    "message": "课程设置",
+    "description": "2.0 course.js"
+  },
+  "courseDiscusstion": {
+    "message": "课程讨论",
+    "description": "2.0 course.js"
+  },
+  "announcement": {
+    "message": "公告",
+    "description": "2.0 course.js"
+  },
+  "courseware": {
+    "message": "课件",
+    "description": "2.0 course.js"
+  },
+  "resourse": {
+    "message": "资源",
+    "description": "2.0 course.js"
+  },
+  "analysis": {
+    "message": "分析",
+    "description": "2.0 course.js"
+  },
+  "member": {
+    "message": "成员",
+    "description": "2.0 course.js"
+  },
+  "homework": {
+    "message": "作业",
+    "description": "2.0 course.js"
+  },
+  "discusstion": {
+    "message": "讨论",
+    "description": "2.0 course.js"
+  },
+  "classroom": {
+    "message": "课堂",
+    "description": "2.0 course.js"
+  },
+  "live": {
+    "message": "直播",
+    "description": "2.0 course.js"
+  },
+  "exam": {
+    "message": "考试",
+    "description": "2.0 course.js"
+  },
+  "assessment": {
+    "message": "考核",
+    "description": "2.0 course.js"
+  },
+  "setting": {
+    "message": "设置",
+    "description": "2.0 course.js"
+  }
+}
