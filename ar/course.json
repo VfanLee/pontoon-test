@@ -1,0 +1,10 @@
+{
+  "backToCourseList": {
+    "message": "العودة إلى قائمة المقرر الدراسي",
+    "description": "2.0 course.js"
+  },
+  "courseFinishedTips1": {
+    "message": "انتهت الدورة الدراسية. لم تعد قابلة للتحرير بعد الآن.",
+    "description": "2.0 course.js"
+  }
+}
