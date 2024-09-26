@@ -1,28 +1,4 @@
 {
-  "backToCourseList": {
-    "message": "返回课程列表",
-    "description": "2.0 course.js"
-  },
-  "backToManageCenter": {
-    "message": "返回管理中心",
-    "description": "2.0 course.js"
-  },
-  "courseFinishedTips1": {
-    "message": "课程已结束，您无法继续编辑课程内容和课程信息",
-    "description": "2.0 course.js"
-  },
-  "courseFinishedTips2": {
-    "message": "课程已结束，您无法继续参加新的课程活动",
-    "description": "2.0 course.js"
-  },
-  "courseContent": {
-    "message": "课程内容",
-    "description": "2.0 course.js"
-  },
-  "courseAnnouncement": {
-    "message": "课程公告",
-    "description": "2.0 course.js"
-  },
   "courseAnalysis": {
     "message": "课程分析",
     "description": "2.0 course.js"
