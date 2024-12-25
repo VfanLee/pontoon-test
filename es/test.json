@@ -1,10 +1,10 @@
 {
   "cancel": {
-    "message": "Cancel es",
+    "message": "Cancel es 2",
     "description": "test.json"
   },
   "confirm": {
-    "message": "Confirm es",
+    "message": "Confirm es 2",
     "description": "test.json"
   }
 }
