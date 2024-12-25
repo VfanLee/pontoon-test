@@ -1,0 +1,10 @@
+{
+  "cancel": {
+    "message": "取消",
+    "description": "test.json"
+  },
+  "confirm": {
+    "message": "确定",
+    "description": "test.json"
+  }
+}
