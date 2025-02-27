@@ -6,5 +6,9 @@
   "confirm": {
     "message": "确定",
     "description": "test.json"
+  },
+  "ok": {
+    "message": "好的",
+    "description": "test.json"
   }
 }
