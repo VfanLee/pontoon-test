@@ -6,5 +6,9 @@
   "confirm": {
     "message": "Confirm",
     "description": "test.json"
+  },
+  "ok": {
+    "message": "OK",
+    "description": "test.json"
   }
 }
